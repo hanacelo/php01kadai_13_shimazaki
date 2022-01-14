@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/earlyaccess/kokoro.css');
+@import url('https://fonts.googleapis.com/earlyaccess/nicomoji.css');
+
+        body{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zILWMqF58fwCnCj1owwpW3pQ54KRzIXL_G5FQ7j_ZHs_igO5IH0D_BkbRTGN7uPgark&usqp=CAU");
+            background-size: contain;
+            object-fit: cover; 
+            background-repeat: no-repeat;
+            height: 1500px;
+            width: 1000px;
+        }
+
+        form{
+            padding: 50px 50px;
+            margin: 35px 50px;
+            background-color: white;
+            height: 1200px;
+            width: 700px;
+        }
+
+        #gata{width: 50px;}
+        #charm{width: 200px;}
+        #shiteiru{width: 200px;}
+        #yume2{width: 120px;}
+
+        #parsonal{
+            background-image: url("https://t4.ftcdn.net/jpg/03/36/50/07/360_F_336500767_LUdzOHdPXjYD3aPIwStnMzLG5ACYwIu8.jpg");
+            background-size: contain;
+            object-fit: cover;
+            background-repeat:no-repeat; 
+            width: 600px;
+            height:180px;
+            padding: 10px 20px;
+            margin-top: -10px;
+        }
+        h1{
+            font-size: 30px;
+            margin-top: -30px;
+        }
+
+        input{
+            width: 150px;
+            height: 25px;
+            margin-top: 10px;
+        }
+
+        form{
+            font-family:  'Itim', cursive;
+            font-size: 30px;
+        }
+
+        #text{
+            margin-top: 10px;
+            font-family: "Courier New";
+            font-size: 20px;
+            font-weight:lighter;
+            overflow-wrap:break-word;
+            padding-top: -8px;
+            color: #888888;
+
+        }
+        #birthday,#za,#gata,#seikaku,#charm,#yume,#work,#mezasu,#shiteiru,#yume2{
+            background-color: #EEEEEE;
+            outline:;
+        }
+
+        #flex-box2 {
+            display: flex;
+            gap: 10px;
+            margin-top: -10px;
+        }
+
+        #food,#comic,#game,#color,#app,#shop,#kamoku,#play,#cosme{
+            width: 180px;
+            height: 110px;
+            background-color: #FFD5EC;
+            text-align: center;
+            font-family:"Nico Moji";
+            padding-top: 5px;
+        }
+
+        #flex-box3 {
+            display: flex;
+            gap: 10px;
+            margin-top: -40px;
+        }
+
+        #tv,#music,#drink,#chara,#animals,#sports,#teacher,#famous,#brand{
+            width: 180px;
+            height: 110px;
+            background-color: #EAD9FF;
+            text-align: center;
+            font-family:"Nico Moji";
+            padding-top: 5px;
+        }
+
+        #flex-box4 {
+            display: flex;
+            gap: 10px;
+            margin-top: -40px;
+        }
+
+        #flex-box5 {
+            display: flex;
+            gap: 10px;
+            margin-top: -40px;
+        }
+
+        #flex-box6 {
+            display: flex;
+            gap: 10px;
+            margin-top: -40px;
+        }
+
+        #submit{
+            font-family: "Courier New";
+            font-size: 20px;
+            border-radius: 100vh;
+            background-color: #FFBEDA;
+            outline: solid 4px #EAD9FF;
+            width: 130px;
+            height: 50px;
+            margin-left: 285px;
+        }
